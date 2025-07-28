@@ -1,5 +1,5 @@
 {
-	"name": "turbo-stream",
+	"name": "@jagodin/turbo-stream",
 	"version": "3.1.0",
 	"description": "A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more.",
 	"files": [
@@ -38,7 +38,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jacob-ebey/turbo-stream.git"
+		"url": "https://github.com/jagodin/turbo-stream.git"
 	},
 	"sideEffects": false,
 	"devDependencies": {
