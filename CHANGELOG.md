@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jagodin/turbo-stream/compare/v1.0.1...v1.1.0) (2025-07-28)
+
+
+### Features
+
+* add global plugin registry ([0f14eff](https://github.com/jagodin/turbo-stream/commit/0f14eff21f040ec1ca036c85be6a1abad89a826a))
+
 ## [3.1.0](https://github.com/jacob-ebey/turbo-stream/compare/v3.0.1...v3.1.0) (2025-02-07)
 
 
