@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
-          package-name: turbo-stream
+          package-name: "@jagodin/turbo-stream"
 
       - name: Checkout
         uses: actions/checkout@v3
